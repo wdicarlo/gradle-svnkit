@@ -1,0 +1,22 @@
+== version 0.5 ==
+
++ added copy() method
+
+== version 0.4 ==
+
++ added support for password request at runtime
+
+== version 0.3 ==
++ added support for more svn commands (branch, tag, switch)
+
+== version 0.2 ==
+
++ added support for more svn commands (checkout, status, update, commit, revert)
++ reorganized packages
++ added some documentation
+
+
+== version 0.1 ==
+
++ initial version
++ added support for svn log command

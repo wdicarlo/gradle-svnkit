@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Implementation-Title: Gradle
+Implementation-Version: 0.9-rc-1
